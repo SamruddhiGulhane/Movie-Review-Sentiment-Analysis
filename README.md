@@ -1,1 +1,1 @@
-# Movie-Review-Sentiment-Analysis
+This project uses Natural Language Processing (NLP) and Machine Learning to classify movie reviews as either positive or negative. It demonstrates how to preprocess text data, extract meaningful features using TF-IDF, and build a classifier to predict sentiment from movie reviews.
